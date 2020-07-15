@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cystle Guardian",
+"productVersion": "1.0",
+"dataUrl": "Cystal Guardian WebGL.data.unityweb",
+"wasmCodeUrl": "Cystal Guardian WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cystal Guardian WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
